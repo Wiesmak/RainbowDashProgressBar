@@ -1,37 +1,40 @@
-# MarioProgressBar
+# Rainbow Dash Progress Bar
 
-The Mario progress bar for IntelliJ IDEA and other JetBrains IDEs.
+The Rainbow Dash progress bar for IntelliJ IDEA and other JetBrains IDEs.
+Just like the Nyan one, but 20% cooler!
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/14708-mario-progress-bar)](https://plugins.jetbrains.com/plugin/14708-mario-progress-bar/versions)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/14708-mario-progress-bar)](https://plugins.jetbrains.com/plugin/14708-mario-progress-bar/reviews)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/14708-mario-progress-bar)](https://plugins.jetbrains.com/plugin/14708-mario-progress-bar)
+[//]: # ([![Version]&#40;https://img.shields.io/jetbrains/plugin/v/14708-mario-progress-bar&#41;]&#40;https://plugins.jetbrains.com/plugin/14708-mario-progress-bar/versions&#41;)
 
-![MarioDeterminateBar](https://i.imgur.com/3ry0GOy.gif)
+[//]: # ()
+[//]: # ([![Rating]&#40;https://img.shields.io/jetbrains/plugin/r/rating/14708-mario-progress-bar&#41;]&#40;https://plugins.jetbrains.com/plugin/14708-mario-progress-bar/reviews&#41;)
 
-![MarioIndeterminateBar](https://i.imgur.com/fdUDmZI.gif)
+[//]: # ()
+[//]: # ([![Downloads]&#40;https://img.shields.io/jetbrains/plugin/d/14708-mario-progress-bar&#41;]&#40;https://plugins.jetbrains.com/plugin/14708-mario-progress-bar&#41;)
+
+[//]: # ()
+[//]: # (![MarioDeterminateBar]&#40;https://i.imgur.com/3ry0GOy.gif&#41;)
+
+[//]: # ()
+[//]: # ()
+[//]: # (![MarioIndeterminateBar]&#40;https://i.imgur.com/fdUDmZI.gif&#41;)
 
 
-This is the [Mario Progress Bar](https://plugins.jetbrains.com/plugin/14708-mario-progress-bar/versions) for [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/) based on the Nyan Progress Bar by Dmitry Batkovitch. It display Mario with some bricks for the basic bar and a Koopa Shell for the indeterminate one.
-
+[//]: # (This is the [Rainbow Dash Progress Bar]&#40;https://plugins.jetbrains.com/plugin/14708-mario-progress-bar/versions&#41; for [JetBrains IntelliJ IDEA]&#40;https://www.jetbrains.com/idea/&#41; based on the Nyan Progress Bar by Dmitry Batkovitch. It display Mario with some bricks for the basic bar and a Koopa Shell for the indeterminate one.)
+The SUPER AWESOME Rainbow Dash Progress Bar plugin for [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea)!
+Just like the Nyan one, but 20% cooler!
+Based on the animated Mario Progress Bar by KikiManjaro (based on Nyan Progress Bar by Dmitry Batkovich).
 
 ## Contributing
 
-Contributions are very welcome on this project! Please see our [contributing guidelines](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md) to get started.
+Contributions are very welcome on this project!
+Just create a fork and pull request, and I'll review it as soon as possible.
 
 ## Acknowledgements
 
-### Sprites
-* All sprites belong to Nintendo. Find them on [Spriters-Resource](https://www.spriters-resource.com/)
+* My little pony is a trademark of Hasbro, Inc.
+* Flying Rainbow Dash gif by [SpokestheBrony](https://www.deviantart.com/spokesthebrony/art/Flying-Rainbow-Loop-316144649)
 
 ### Code
 
-* The code for the progress bar was adapted from [Nyan Progess Bar](https://github.com/batya239/NyanProgressBar).
-* This plugin is of course heavily dependent on JetBrains' IntelliJ SDK  
-
-### Misc
-
-* Gif editing done with [Gimp](https://www.gimp.org/)
-* This readme is inspired by the [Kagof intellij-pokemon-progress](https://github.com/kagof/intellij-pokemon-progress/blob/master/README.md)
-* The Pokémon Company, for creating Pokémon
-
-[![Buy Me a Coffee](https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9pbWcuYnV5bWVhY29mZmVlLmNvbS9hcGkvP3VybD1hSFIwY0hNNkx5OWpaRzR1WW5WNWJXVmhZMjltWm1WbExtTnZiUzkxY0d4dllXUnpMM0J5YjJacGJHVmZjR2xqZEhWeVpYTXZNakF5TVM4d015ODBZekkwT0RnNE1XWmxOVE5pWmprM1lUa3pOV1kxWm1NNFlqRXpPV1EyTWk1d2JtYz0mc2l6ZT0zMDAmbmFtZT1raWtpbWFuamFybw==&creator=kikimanjaro&is_creating=creating%20mobile%20apps%20and%20plugins&design_code=1&design_color=%23ff813f&slug=kikimanjaro)](https://www.buymeacoffee.com/kikimanjaro)
+* The code for the progress bar was adapted from [Mario Progress Bar](https://github.com/KikiManjaro/MarioProgressBar).
+* This plugin is of course heavily dependent on JetBrains' IntelliJ SDK
