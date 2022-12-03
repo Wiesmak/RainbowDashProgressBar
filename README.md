@@ -3,20 +3,16 @@
 The Rainbow Dash progress bar for IntelliJ IDEA and other JetBrains IDEs.
 Just like the Nyan one, but 20% cooler!
 
-[//]: # ([![Version]&#40;https://img.shields.io/jetbrains/plugin/v/14708-mario-progress-bar&#41;]&#40;https://plugins.jetbrains.com/plugin/14708-mario-progress-bar/versions&#41;)
+[![Version](https://img.shields.io/jetbrains/plugin/v/20570-rainbow-dash-progress-bar)](https://plugins.jetbrains.com/plugin/20570-rainbow-dash-progress-bar)
 
-[//]: # ()
-[//]: # ([![Rating]&#40;https://img.shields.io/jetbrains/plugin/r/rating/14708-mario-progress-bar&#41;]&#40;https://plugins.jetbrains.com/plugin/14708-mario-progress-bar/reviews&#41;)
 
-[//]: # ()
-[//]: # ([![Downloads]&#40;https://img.shields.io/jetbrains/plugin/d/14708-mario-progress-bar&#41;]&#40;https://plugins.jetbrains.com/plugin/14708-mario-progress-bar&#41;)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/20570-rainbow-dash-progress-bar)](https://plugins.jetbrains.com/plugin/20570-rainbow-dash-progress-bar/reviews)
 
-[//]: # ()
-[//]: # (![MarioDeterminateBar]&#40;https://i.imgur.com/3ry0GOy.gif&#41;)
 
-[//]: # ()
-[//]: # ()
-[//]: # (![MarioIndeterminateBar]&#40;https://i.imgur.com/fdUDmZI.gif&#41;)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/20570-rainbow-dash-progress-bar)](https://plugins.jetbrains.com/plugin/20570-rainbow-dash-progress-bar)
+
+
+![RainbowDashProgressBar](https://i.imgur.com/4qO7oFZ.png)
 
 
 [//]: # (This is the [Rainbow Dash Progress Bar]&#40;https://plugins.jetbrains.com/plugin/14708-mario-progress-bar/versions&#41; for [JetBrains IntelliJ IDEA]&#40;https://www.jetbrains.com/idea/&#41; based on the Nyan Progress Bar by Dmitry Batkovitch. It display Mario with some bricks for the basic bar and a Koopa Shell for the indeterminate one.)
