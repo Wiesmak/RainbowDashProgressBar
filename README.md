@@ -6,16 +6,21 @@ Just like the Nyan one, but 20% cooler!
 [//]: # ([![Version]&#40;https://img.shields.io/jetbrains/plugin/v/14708-mario-progress-bar&#41;]&#40;https://plugins.jetbrains.com/plugin/14708-mario-progress-bar/versions&#41;)
 
 [//]: # ()
+
 [//]: # ([![Rating]&#40;https://img.shields.io/jetbrains/plugin/r/rating/14708-mario-progress-bar&#41;]&#40;https://plugins.jetbrains.com/plugin/14708-mario-progress-bar/reviews&#41;)
 
 [//]: # ()
+
 [//]: # ([![Downloads]&#40;https://img.shields.io/jetbrains/plugin/d/14708-mario-progress-bar&#41;]&#40;https://plugins.jetbrains.com/plugin/14708-mario-progress-bar&#41;)
 
 [//]: # ()
+
 [//]: # (![MarioDeterminateBar]&#40;https://i.imgur.com/3ry0GOy.gif&#41;)
 
 [//]: # ()
+
 [//]: # ()
+
 [//]: # (![MarioIndeterminateBar]&#40;https://i.imgur.com/fdUDmZI.gif&#41;)
 
 
@@ -32,7 +37,8 @@ Just create a fork and pull request, and I'll review it as soon as possible.
 ## Acknowledgements
 
 * My little pony is a trademark of Hasbro, Inc.
-* Flying Rainbow Dash gif by [SpokestheBrony](https://www.deviantart.com/spokesthebrony/art/Flying-Rainbow-Loop-316144649)
+* Flying Rainbow Dash gif
+  by [SpokestheBrony](https://www.deviantart.com/spokesthebrony/art/Flying-Rainbow-Loop-316144649)
 
 ### Code
 
